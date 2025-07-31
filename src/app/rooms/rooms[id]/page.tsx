@@ -1,6 +1,4 @@
-// src/app/rooms/page.tsx
-
-export default function RoomsPage() {
+export default function room() {
   return (
     <div>
       ห้องว่างสำหรับจอง
